@@ -1,7 +1,7 @@
 WPEngine's version of TimThumb
 ==============================
 
-This is a holding place for the WPEngine approved version of TimThumb which is otherwise found at [http://wp-common.s3.amazonaws.com/timthumb.php]().
+This is a holding place for the WPEngine approved version of TimThumb which is otherwise found at http://wp-common.s3.amazonaws.com/timthumb.php.
 
 Why have I done this?
 
